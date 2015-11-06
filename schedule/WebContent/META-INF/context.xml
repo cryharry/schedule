@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource auth="Container"
+			  name="jdbc/kcm"
+			  type="javax.sql.DataSource"
+			  username="sa"
+			  password="kcmcard3003"
+			  driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+			  url="jdbc:sqlserver://218.53.104.76:1433;databaseName=Mirae_Hun_Sms" />
+</Context>
